@@ -5,3 +5,6 @@
 [submodule "nestedpp"]
 	path = nestedpp
 	url = https://github.com/cran/nestedpp
+[submodule "nlopt"]
+	path = nlopt
+	url = https://github.com/cran/nlopt
